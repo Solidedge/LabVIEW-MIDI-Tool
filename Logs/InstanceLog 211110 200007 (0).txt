@@ -1,0 +1,34 @@
+Init/GUI	
+Producer	
+Consumer	
+MIDI Handler	
+Init/GUI	195929,0539	Initiating...
+Init/GUI	195929,3028	GUI initiating, running at 200ms.
+MIDI Handler	195929,3028	MIDI-Handler initiating.
+Init/GUI	195929,3028	Software initiated
+MIDI Handler	195929,8906	Importing MIDI-messages from midi_messages.
+MIDI Handler	195930,0354	Found 35 files.
+Init/GUI	195930,2489	MIDI-messages loaded.
+Init/GUI	195957,1340	Updating communication settings.
+Producer	195957,3227	Updating Tx and Rx settings.
+Producer	195957,4493	Settings for Producer stored.
+Init/GUI	200001,5056	Updating communication settings.
+Producer	200001,5180	Settings for Producer stored.
+Producer	200001,5180	Updating Tx and Rx settings.
+Init/GUI	200002,3245	Updating communication settings.
+Producer	200002,5189	Updating Tx and Rx settings.
+Producer	200002,5398	Settings for Producer stored.
+Init/GUI	200004,4642	Updating communication settings.
+Producer	200004,5413	Updating Tx and Rx settings.
+Producer	200004,5513	Settings for Producer stored.
+MIDI Handler	200007,6106	A quit message has been received. MIDI-handler exiting.
+Init/GUI	200007,6106	Shutdown procedure initiated.
+Consumer	200007,7507	Consumer has received quit message, shutting down.
+Producer	200007,7547	Quit message received, shutting down Producer.
+MIDI Handler	200007,7985	MIDI Handler shutting down. After 76 iterations.
+Init/GUI	200007,8264	GUI closed after 5 iterations.
+Consumer	200007,9506	Consumer shutting down after 192 iterations.
+Producer	200007,9647	Producer has shut down, after 191 iterations.
+
+No Error
+Shutting down...
