@@ -1,7 +1,12 @@
 # LabVIEW MIDI Tool
 A development Tool for MIDI, using UART via USB. This project were intended for [this](https://github.com/BLE-MIDI/NCS-MIDI) BLE-MIDI Project. It's main focus was checking how the MIDI data was parsed.
 
+![GUI](https://github.com/Solidedge/LabVIEWMIDITool/blob/main/Images/gui.png?raw=true)
+
 It is overly advanced as I was testing out, and learning about, producer/consumer design. As well as adding some template elements for myself.
+
+![T-structure](https://github.com/Solidedge/LabVIEWMIDITool/blob/main/Images/tstructure.png?raw=true)
+
 
 # Disclaimer
 It has been a while since last use, and I would therefore advice that anyone attempting to use this should do a thorough examination of this repository. Before running it at their own risk!
